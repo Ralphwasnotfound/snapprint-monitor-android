@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368037018410",
+    "project_id": "snapprintmonitor",
+    "storage_bucket": "snapprintmonitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368037018410:android:2a15bc181931e57726fc53",
+        "android_client_info": {
+          "package_name": "com.example.snapprintmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywkRXN9e6iHcb2g8KdbqORgXrMP_AXfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

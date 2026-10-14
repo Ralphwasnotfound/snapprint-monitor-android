@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Legacy fallback: centered 6:5 artwork with room for launcher masks. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_launcher_background" />
+    <item>
+        <inset android:insetLeft="14%" android:insetRight="14%"
+            android:insetTop="20%" android:insetBottom="20%">
+            <bitmap android:src="@drawable/spectre_logo"
+                android:gravity="fill" android:filter="true" />
+        </inset>
+    </item>
+</layer-list>

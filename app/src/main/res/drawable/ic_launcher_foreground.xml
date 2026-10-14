@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Preserve the 6:5 source ratio. The whole image fits inside the 66dp safe circle
+     on the adaptive icon's 108dp canvas (49.68 x 41.40dp). -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="27%" android:insetRight="27%"
+    android:insetTop="30.833333%" android:insetBottom="30.833333%">
+    <bitmap android:src="@drawable/spectre_logo"
+        android:gravity="fill" android:filter="true" />
+</inset>
